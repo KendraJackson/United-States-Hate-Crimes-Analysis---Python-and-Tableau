@@ -13,8 +13,8 @@ Folder contents are as follows:
 
 - 01 Project Management: Contains the project brief and other related documentation
 -  02 Data: Includes two subfolders (Dataframes are very large and were not uploaded due to size limitations)
-  - Original Data: Original datasets
-  - Prepared Data: Data cleaned and ready for analysis
+    - Original Data: Original datasets
+    - Prepared Data: Data cleaned and ready for analysis
 - 03 Scripts: Python code for analysis, executed using Jupyter Notebook
 - 04 Analysis: Contains 'Visualizations' subfolder (Most visualizations were recreated within Tableau and can be viewed in the Storyboard)
 - 05 Sent to Client: Final Tableau Presentation
@@ -39,4 +39,8 @@ The Hate Crime Statistics Program of the FBI's Uniform Crime Reporting (UCR) Pro
 [United States Hate Crimes (1991-2018) | Kaggle](https://www.kaggle.com/datasets/louissebye/united-states-hate-crimes-19912017?resource=download)
 
 [FBI: Crime Data Explorer](https://cde.ucr.cjis.gov/)
+
+## Storyboard
+
+[Click Here](https://public.tableau.com/app/profile/kendra.jackson1676/viz/HateCrimeAnalysisDashboard/HateCrimeAnalysisStoryboard?publish=yes)
 
