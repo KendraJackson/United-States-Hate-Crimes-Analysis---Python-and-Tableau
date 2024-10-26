@@ -42,5 +42,6 @@ The Hate Crime Statistics Program of the FBI's Uniform Crime Reporting (UCR) Pro
 
 ## Storyboard
 
+This Tableau Storyboard does not contain every step of analysis. For details, refer to Jupyter notebooks in the scripts section. 
 [Click Here](https://public.tableau.com/app/profile/kendra.jackson1676/viz/HateCrimeAnalysisDashboard/HateCrimeAnalysisStoryboard?publish=yes)
 
